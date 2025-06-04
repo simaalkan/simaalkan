@@ -13,6 +13,4 @@
 
 📍 I'm from Türkiye and have been living in Gdańsk, Poland since 2024.
 🎓 I have a Bachelor of Science degree in Industrial Engineering at Bilkent University.
-☁️ Reach me:
-simaalkan96@gmail.com 
-linkedin.com/in/sima-alkan/
+☁️ Reach me: simaalkan96@gmail.com 
