@@ -12,5 +12,7 @@
 ⚡ I truly enjoy testing and finding bugs. I'm a reliable bug catcher, which earned me the nickname: the last bug bender. 
 
 📍 I'm from Türkiye and have been living in Gdańsk, Poland since 2024.
+
 🎓 I have a Bachelor of Science degree in Industrial Engineering at Bilkent University.
+
 ☁️ Reach me: simaalkan96@gmail.com 
