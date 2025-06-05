@@ -17,12 +17,14 @@
 
 
 
-🌻 More about me,
+🌚 More about me,
 
-👻 In my free time, I mostly dive into long novels (finally got that focus back!) or unwind with shows, movies, and gaming.
+🪩 In my free time, I mostly dive into long novels (finally got that focus back!) or unwind with shows, movies, and gaming.
 
 📷 I looove taking pictures, and deeply appreciate aesthetics. Capturing the beauty of Poland’s nature and architecture has been such a rewarding experience since relocating here.
 
-🌚 I enjoy writing blogs about tech and travel, and honestly, making detailed travel plans on Notion has been a total game changer for my trips. I also use it for recipes and pretty much whatever else I need.
+💻�I enjoy writing blogs about tech and travel, and honestly, making detailed travel plans on Notion has been a total game changer for my trips. 
+
+👻 I’m a devoted foodie... I take my unofficial job as a Google Maps local guide way too seriously. I also use Notion for recipes and pretty much whatever else I need. 
 
 🎧 When I’m not doing any of that, I’m probably curating my ever-growing Spotify playlists—they’re basically part of my personality.
