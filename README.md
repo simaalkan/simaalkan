@@ -1,7 +1,7 @@
 # [simaalkan.github.io](https://simaalkan.github.io)
 
 
-💭 Hi, I'm Sima.
+`💭 Hi, I'm Sima.
 
 ✨ I have over 3 years of experience as a Business Analyst and QA Engineer. 
 
@@ -27,4 +27,4 @@
 
 👻 I’m a devoted foodie... I take my unofficial job as a Google Maps local guide way too seriously. I also use Notion for recipes and pretty much whatever else I need. 
 
-🎧 When I’m not doing any of that, I’m probably curating my ever-growing Spotify playlists—they’re basically part of my personality.
+🎧 When I’m not doing any of that, I’m probably curating my ever-growing Spotify playlists—they’re basically part of my personality.`
