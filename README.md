@@ -11,6 +11,8 @@
 
 ⚡ I truly enjoy testing and finding bugs. I'm a reliable bug catcher, hence the nickname 'the last bug bender' by my teammates.
 
+🦒 Can’t switch off the QA brain... Sometimes I find myself reporting bugs in the apps I use and the games I play. Occupational hazard, I guess.
+
 🎓 I have a Bachelor of Science degree in Industrial Engineering at Bilkent University.  
 
 <br>
