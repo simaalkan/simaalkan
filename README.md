@@ -23,7 +23,7 @@
 
 📷 I looove taking pictures, and deeply appreciate aesthetics. Capturing the beauty of Poland’s nature and architecture has been such a rewarding experience since relocating here.
 
-💻�I enjoy writing blogs about tech and travel, and honestly, making detailed travel plans on Notion has been a total game changer for my trips. 
+💻 I enjoy writing blogs about tech and travel, and honestly, making detailed travel plans on Notion has been a total game changer for my trips. 
 
 👻 I’m a devoted foodie... I take my unofficial job as a Google Maps local guide way too seriously. I also use Notion for recipes and pretty much whatever else I need. 
 
