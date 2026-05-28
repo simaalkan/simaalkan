@@ -9,5 +9,5 @@
 
 <br>
 ☕ I'm just an engineering girlie with lots of hobbies!
-<img width="1024" height="1536" alt="AI fun" src="https://github.com/user-attachments/assets/bacd2303-f508-4ce3-bc2b-33215051b135" />
+<img src="https://github.com/user-attachments/assets/bacd2303-f508-4ce3-bc2b-33215051b135" alt="AI fun" width="350" style="border-radius: 12px;" />
 <br>
