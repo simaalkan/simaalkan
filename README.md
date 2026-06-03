@@ -8,9 +8,3 @@
 🎓 I have a Bachelor of Science degree in Industrial Engineering at Bilkent University.  
 
 <br>
-☕ I'm just an engineering girlie with lots of hobbies!
-<br>
-<br>
-<br>
-<img src="https://github.com/user-attachments/assets/bacd2303-f508-4ce3-bc2b-33215051b135" alt="AI fun" width="350" style="border-radius: 12px;" />
-<br>
